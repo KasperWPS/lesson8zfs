@@ -1,4 +1,4 @@
-# Домашнее задание № 4. Дисковая подсистема. ZFS. К курсу Administrator Linux. Professional
+# Домашнее задание № 5. Дисковая подсистема. ZFS. К курсу Administrator Linux. Professional
 
 - Определить алгоритм с наилучшим сжатием.
 
